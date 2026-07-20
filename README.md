@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/akash-tester/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akash-tester/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Math
 |  |
@@ -22,6 +23,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/akash-tester/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0065-valid-number](https://github.com/akash-tester/leetcode-solution/tree/master/0065-valid-number) |
 | [0242-valid-anagram](https://github.com/akash-tester/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akash-tester/leetcode-solution/tree/master/0344-reverse-string) |
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/akash-tester/leetcode-solution/tree/master/0344-reverse-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/akash-tester/leetcode-solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
