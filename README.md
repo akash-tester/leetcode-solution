@@ -24,6 +24,7 @@
 | ------- |
 | [0065-valid-number](https://github.com/akash-tester/leetcode-solution/tree/master/0065-valid-number) |
 | [0242-valid-anagram](https://github.com/akash-tester/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/akash-tester/leetcode-solution/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/akash-tester/leetcode-solution/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/akash-tester/leetcode-solution/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
