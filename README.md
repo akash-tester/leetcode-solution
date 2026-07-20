@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/akash-tester/leetcode-solution/tree/master/0009-palindrome-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akash-tester/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Geometry
 |  |
