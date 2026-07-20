@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akash-tester/leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/akash-tester/leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/akash-tester/leetcode-solution/tree/master/0065-valid-number) |
 | [0242-valid-anagram](https://github.com/akash-tester/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akash-tester/leetcode-solution/tree/master/0344-reverse-string) |
