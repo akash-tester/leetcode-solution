@@ -38,6 +38,7 @@
 | [0242-valid-anagram](https://github.com/akash-tester/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akash-tester/leetcode-solution/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/akash-tester/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
+| [1768-merge-strings-alternately](https://github.com/akash-tester/leetcode-solution/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/akash-tester/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/akash-tester/leetcode-solution/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/akash-tester/leetcode-solution/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
