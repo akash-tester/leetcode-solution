@@ -20,6 +20,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/akash-tester/leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/akash-tester/leetcode-solution/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/akash-tester/leetcode-solution/tree/master/0029-divide-two-integers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akash-tester/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akash-tester/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Geometry
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/akash-tester/leetcode-solution/tree/master/1603-design-parking-system) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/akash-tester/leetcode-solution/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
