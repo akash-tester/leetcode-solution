@@ -11,6 +11,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akash-tester/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akash-tester/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1470-shuffle-the-array](https://github.com/akash-tester/leetcode-solution/tree/master/1470-shuffle-the-array) |
 ## Math
 |  |
 | ------- |
