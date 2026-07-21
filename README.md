@@ -13,6 +13,7 @@
 | [0001-two-sum](https://github.com/akash-tester/leetcode-solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/akash-tester/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akash-tester/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/akash-tester/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/akash-tester/leetcode-solution/tree/master/1470-shuffle-the-array) |
 ## Math
 |  |
@@ -20,6 +21,7 @@
 | [0007-reverse-integer](https://github.com/akash-tester/leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/akash-tester/leetcode-solution/tree/master/0009-palindrome-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akash-tester/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/akash-tester/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Geometry
 |  |
 | ------- |
