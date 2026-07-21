@@ -53,4 +53,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akash-tester/leetcode-solution/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/akash-tester/leetcode-solution/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/akash-tester/leetcode-solution/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/akash-tester/leetcode-solution/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
