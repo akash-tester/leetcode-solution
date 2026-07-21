@@ -44,6 +44,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/akash-tester/leetcode-solution/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/akash-tester/leetcode-solution/tree/master/0242-valid-anagram) |
+| [1600-throne-inheritance](https://github.com/akash-tester/leetcode-solution/tree/master/1600-throne-inheritance) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/akash-tester/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
@@ -60,6 +61,7 @@
 ## Design
 |  |
 | ------- |
+| [1600-throne-inheritance](https://github.com/akash-tester/leetcode-solution/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/akash-tester/leetcode-solution/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -77,4 +79,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akash-tester/leetcode-solution/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/akash-tester/leetcode-solution/tree/master/1600-throne-inheritance) |
+## Depth-First Search
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/akash-tester/leetcode-solution/tree/master/1600-throne-inheritance) |
 <!---LeetCode Topics End-->
