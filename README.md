@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/akash-tester/leetcode-solution/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/akash-tester/leetcode-solution/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/akash-tester/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akash-tester/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/akash-tester/leetcode-solution/tree/master/0058-length-of-last-word) |
@@ -111,10 +112,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/akash-tester/leetcode-solution/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/akash-tester/leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/akash-tester/leetcode-solution/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/akash-tester/leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
