@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/akash-tester/leetcode-solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/akash-tester/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/akash-tester/leetcode-solution/tree/master/0035-search-insert-position) |
+| [1002-find-common-characters](https://github.com/akash-tester/leetcode-solution/tree/master/1002-find-common-characters) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akash-tester/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akash-tester/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/akash-tester/leetcode-solution/tree/master/1470-shuffle-the-array) |
@@ -46,6 +47,7 @@
 | [0520-detect-capital](https://github.com/akash-tester/leetcode-solution/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/akash-tester/leetcode-solution/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/akash-tester/leetcode-solution/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/akash-tester/leetcode-solution/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/akash-tester/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/akash-tester/leetcode-solution/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/akash-tester/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -55,6 +57,7 @@
 | [0001-two-sum](https://github.com/akash-tester/leetcode-solution/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/akash-tester/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/akash-tester/leetcode-solution/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/akash-tester/leetcode-solution/tree/master/1002-find-common-characters) |
 | [1600-throne-inheritance](https://github.com/akash-tester/leetcode-solution/tree/master/1600-throne-inheritance) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/akash-tester/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
