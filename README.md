@@ -52,6 +52,7 @@
 | [0771-jewels-and-stones](https://github.com/akash-tester/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/akash-tester/leetcode-solution/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/akash-tester/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
+| [1396-design-underground-system](https://github.com/akash-tester/leetcode-solution/tree/master/1396-design-underground-system) |
 | [1768-merge-strings-alternately](https://github.com/akash-tester/leetcode-solution/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/akash-tester/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Hash Table
@@ -62,6 +63,7 @@
 | [0500-keyboard-row](https://github.com/akash-tester/leetcode-solution/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/akash-tester/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/akash-tester/leetcode-solution/tree/master/1002-find-common-characters) |
+| [1396-design-underground-system](https://github.com/akash-tester/leetcode-solution/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/akash-tester/leetcode-solution/tree/master/1600-throne-inheritance) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/akash-tester/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
@@ -81,6 +83,7 @@
 ## Design
 |  |
 | ------- |
+| [1396-design-underground-system](https://github.com/akash-tester/leetcode-solution/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/akash-tester/leetcode-solution/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/akash-tester/leetcode-solution/tree/master/1603-design-parking-system) |
 ## Simulation
