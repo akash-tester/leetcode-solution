@@ -15,6 +15,7 @@
 | [0014-longest-common-prefix](https://github.com/akash-tester/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/akash-tester/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0500-keyboard-row](https://github.com/akash-tester/leetcode-solution/tree/master/0500-keyboard-row) |
+| [0705-design-hashset](https://github.com/akash-tester/leetcode-solution/tree/master/0705-design-hashset) |
 | [1002-find-common-characters](https://github.com/akash-tester/leetcode-solution/tree/master/1002-find-common-characters) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akash-tester/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akash-tester/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -61,6 +62,7 @@
 | [0001-two-sum](https://github.com/akash-tester/leetcode-solution/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/akash-tester/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/akash-tester/leetcode-solution/tree/master/0500-keyboard-row) |
+| [0705-design-hashset](https://github.com/akash-tester/leetcode-solution/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/akash-tester/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/akash-tester/leetcode-solution/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/akash-tester/leetcode-solution/tree/master/1396-design-underground-system) |
@@ -83,6 +85,7 @@
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/akash-tester/leetcode-solution/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/akash-tester/leetcode-solution/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/akash-tester/leetcode-solution/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/akash-tester/leetcode-solution/tree/master/1603-design-parking-system) |
@@ -129,4 +132,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/akash-tester/leetcode-solution/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/akash-tester/leetcode-solution/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/akash-tester/leetcode-solution/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
